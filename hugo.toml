@@ -3,6 +3,10 @@ languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = "PaperMod"
 
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
 enableRobotsTXT = true
 buildDrafts = false
 buildFuture = false
