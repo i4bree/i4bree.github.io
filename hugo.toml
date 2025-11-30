@@ -1,6 +1,6 @@
 baseURL = 'https://i4bree.github.io/'
 languageCode = 'en-us'
-title = 'Bree's Digital Diary 🧸'
+title = "Bree's Digital Diary"
 theme = "PaperMod"
 
 [caches]
@@ -24,10 +24,10 @@ tag = "tags"
 
 [params]
 env = "production"
-title = "Your Name"
-description = "My digital garden"
+title = "Bryanna Downing"
+description = "My digital diary"
 keywords = [ "Blog", "Portfolio", "PaperMod" ]
-author = "Your Name"
+author = "Bryanna Downing"
 images = [ "<link or path of image for opengraph, twitter-cards>" ]
 DateFormat = "January 2, 2006"
 defaultTheme = "auto"
@@ -56,12 +56,12 @@ tocopen = false
   safari_pinned_tab = "/favicon-16x16.png"
 
   [params.label]
-  text = "Your Name"
+  text = "Bree's Digital Diary 🌱"
   iconHeight = 35
 
   [params.profileMode]
   enabled = false
-  title = "Your Name"
+  title = "Bryanna Downing"
   subtitle = "This is subtitle"
   imageUrl = "<img location>"
   imageWidth = 120
@@ -77,20 +77,16 @@ tocopen = false
     url = "tags"
 
   [params.homeInfoParams]
-  Title = "Hello world, I'm [Your Name]! 👩🏻‍💻"
-  Content = "Welcome to my digital garden where I document my learnings as a Software Engineer."
+  Title = "Hi, I'm Bryanna! 🌷"
+  Content = "Welcome to my digital diary where I document my learnings as a Biomedical Engineer."
 
   [[params.socialIcons]]
   name = "github"
-  url = "https://github.com"
+  url = "https://github.com/i4bree"
 
   [[params.socialIcons]]
-  name = "youtube"
-  url = "https://www.youtube.com"
-
-  [[params.socialIcons]]
-  name = "twitter"
-  url = "https://twitter.com"
+  name = "linkedin"
+  url = "https://www.linkedin.com/in/bryanna-downing/"
 
 [params.analytics.google]
 SiteVerificationTag = "XYZabc"
